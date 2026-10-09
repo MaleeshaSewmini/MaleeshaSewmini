@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Maleesha 👋</h1>
 
 <p>
-  Computer Science Undergraduate | Wayamba University of Sri Lanka
+  Bsc(Hons) in Computer Science | Wayamba University of Sri Lanka
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Build.;Learn.;Innovate.;Explore+AI+%26+Software+Engineering." alt="Typing animation" />
